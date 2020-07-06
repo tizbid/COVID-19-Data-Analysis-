@@ -1,2 +1,2 @@
 # COVID-19-Data-Analysis-
-Insights on analysis Italy Corona virus datasets
+Insights and analysis on Italy Corona virus datasets
