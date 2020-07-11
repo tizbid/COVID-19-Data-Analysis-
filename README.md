@@ -1,2 +1,2 @@
 # COVID-19-Data-Analysis-
-Insights and analysis on Italy Corona virus datasets
+Exploratory xdata analysis and visulization on Italy Corona virus datasets
