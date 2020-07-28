@@ -1,2 +1,3 @@
-# COVID-19-Data-Analysis-
-Exploratory data analysis and visulization on Italy Corona virus datasets
+# COVID-19-Data-Analysis
+
+Exploratory Data Analysis on Italy during the peak of the Corona pandemic.
