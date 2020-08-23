@@ -6,7 +6,7 @@ This repository contains a visualization analysis of Covid-19 cases within all t
 ![covid image](https://www.airport-technology.com/wp-content/uploads/sites/14/2020/03/Italy-Covid-19.jpg)
 
 ### Highlights:
-  * Timeline analyis
+  * Timeline analysis
   * Gender susceptability based analysis
   * Embedded Tableau  and Florish visualization.
 
